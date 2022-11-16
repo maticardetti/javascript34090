@@ -1,0 +1,37 @@
+body {
+    background-image: url(/img/20180220_021.jpg);
+    background-size: contain;
+    background-repeat: repeat;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    background-color: green;
+}
+
+p {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    background-color: white;
+}
+
+.productos {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.card {
+    margin: 5%;
+}
+
+.boton {
+    margin: auto;
+    padding: auto;
+}
